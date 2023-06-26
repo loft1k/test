@@ -1,0 +1,22 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Чунга и чанга</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>1</h1>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend erat et euismod pretium. Etiam ultrices molestie velit, vitae ullamcorper lectus scelerisque vitae. Integer posuere enim auctor sapien faucibus, eu pellentesque lacus pellentesque. Nullam scelerisque dignissim augue, non ultrices ante gravida sed. Fusce ut eleifend dolor. Etiam dolor neque, faucibus nec ullamcorper vel, lobortis eleifend quam. Pellentesque interdum lacus sem, quis rhoncus justo ornare rutrum. Vestibulum nunc lacus, vehicula vitae justo at, accumsan tempor ipsum
+  <br>
+</p>
+  <h2>2</h2>
+  <p>
+    Mauris tempor orci rutrum, hendrerit mauris in, sodales nunc. Suspendisse scelerisque id magna eu fermentum. Curabitur volutpat tincidunt magna non iaculis. Mauris pellentesque sollicitudin finibus. Etiam cursus purus ex, at facilisis eros viverra id. Etiam eu hendrerit dui. Aenean porta porttitor mi nec iaculis.
+    <hr>
+  </p>
+<h3>3</h3>
+<p>
